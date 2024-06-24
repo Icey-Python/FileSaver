@@ -45,4 +45,4 @@ The DB_FILE constant defines the database filename. New files to add are specifi
 - os
 - hashlib
 
-Let me know if any part of the usage needs more explanation!
+Happy Coding! 🕶️
